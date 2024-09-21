@@ -1,0 +1,4 @@
+venv/
+clientinfo.txt
+*.tok
+.idea/*
